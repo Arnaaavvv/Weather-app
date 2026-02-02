@@ -1,0 +1,14 @@
+# API Configuration (contains sensitive API keys)
+config.py
+
+# Environment variables
+.env
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# Python cache
+__pycache__/
