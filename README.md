@@ -125,7 +125,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 👤 Author
 
 **Arnav Chaudhari**
-GitHub: [@Arnaaavvv](https://github.com/Arnaaavvv)
+- GitHub: [@Arnaaavvv](https://github.com/Arnaaavvv)
 
 ## 🏆 Acknowledgments
 
